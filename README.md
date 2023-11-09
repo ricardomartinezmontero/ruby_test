@@ -1,3 +1,8 @@
+
+### you have to be in your project folder
+
+Make sure that you are in your project folder.
+
 ### Instructions to update your repository in your project to upload it to this repository
 ```bash
 git remote add ricardo_github https://github.com/ricardomartinezmontero/ruby_test.git
